@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit need to accept 4 different two two-bit values.. A and B. It needs to output 4 different one-bit values, for each gage. And, NAND, XOR, and XNOR
 
 ## How to test
+Simulate using Wokwim testing against this truth table as a golden file 
 
 Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+12 LED's
